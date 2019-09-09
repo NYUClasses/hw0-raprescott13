@@ -1,9 +1,3 @@
----
-output:
-  word_document: default
-  pdf_document: default
-  html_document: default
----
 # EDA-HW0
 ## Due Date: Monday, September 9th, 12:00 pm 
 ### Helpful Markdown links
@@ -32,7 +26,7 @@ It should look something like this:
 1. Name:
   * Arnon Lieber
 2. 
-  * 
+  
 3. 
 
 Once you are done, commit your changes, and push to GitHub. 
