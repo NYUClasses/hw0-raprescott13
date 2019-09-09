@@ -1,3 +1,9 @@
+---
+output:
+  word_document: default
+  pdf_document: default
+  html_document: default
+---
 # EDA-HW0
 ## Due Date: Monday, September 9th, 12:00 pm 
 ### Helpful Markdown links
@@ -9,7 +15,13 @@
 
 [Markdown Tutorial](https://www.markdowntutorial.com/)
 
+# My First Github Assignment
 
+1. **Rachel Prescott** 
+
+2. *Lovett or Leave It* 
+
+3. https://github.com/NYUClasses/hw0-raprescott13 
 
 1.Create a Heading right above this line &uarr; that says 'My First Github Assignment' 
 
